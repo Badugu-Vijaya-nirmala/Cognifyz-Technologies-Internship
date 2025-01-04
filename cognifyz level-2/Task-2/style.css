@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+.nav-logo{
+    height: 100px;
+    width: 200px;
+  }
+  .mass-body{
+    height: 295vh;
+    background-color: #1cfc03;
+  }
+  .ITEM-NAV{
+    color: white;
+  
+  }
+  .ITEM-NAV:hover{
+    color: blue;
+  }
+  .anchor{
+    margin-left: auto;
+  }
+.container{
+  text-align: center;
+}
+.box{
+  border:2px solid grey;
+  color: black;
+  height: 50px;
+  font-family:'Encode Sans', sans-serif;
+  text-align: center;
+  background-color: coral;
+}
+.img1{
+  height: 500px;
+  width: 500px;
+  align-items: center;
+}
+.imgtag{
+  height: 300px;
+  width: 600px;
+}
+course-p{
+  text-align: right;
+  padding-left: 300px;
+  width: 6rem;
+}
+.card{
+  width: 22rem;
+}
+.social-icon-img{
+  height: 50px;
+}
+.contact{
+  text-align: center;
+  color: black;
+  border: 2px solid grey;
+  background-color: #dba9d0;
+}
+.bottom{
+  background-color:#e5e5e5;
+  text-align:center;
+  padding:10px;
+  margin-top:2px;
+}
