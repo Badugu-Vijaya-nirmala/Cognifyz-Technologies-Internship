@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Image Manipulation</title>
+</head>
+<body>
+  <div class="heading">
+    <h1>WEB DEVELOPMENT</h1>
+  </div><br><br>
+    <div class="gallery">
+<img src="https://t3.ftcdn.net/jpg/02/14/53/92/360_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg" 
+alt="Image 2" class="gallery-img" onclick="showImage(src)">
+<img src="https://careerswithstem.com.au/wp-content/uploads/2018/07/web-development-programming-resized.jpg"
+alt="Image 3" class="gallery-img" onclick="showImage(src)">
+<img src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg" alt="Image 4" class="gallery-img" onclick="showImage(src)">
+<img src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg" 
+alt="Image 5" class="gallery-img" onclick="showImage(src)">
+</div>
+      <div class="image-popup-container" id="imagePopup">
+        <span class="close-button" onclick="closeImage()">×</span>
+        <img src="" alt="Popup Image" id="popupImage">
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>
