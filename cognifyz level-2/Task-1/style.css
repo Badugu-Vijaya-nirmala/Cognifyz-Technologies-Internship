@@ -1,0 +1,21 @@
+.nav-logo{
+  height: 100px;
+  width: 200px;
+}
+.mass-body{
+  height: 193vh;
+  background-image: url('https://www.hdwallpapers.in/download/multi_colored_lines_shades_background_hd_soft-2560x1440.jpg');
+}
+.ITEM-NAV{
+  color: white;
+
+}
+.ITEM-NAV:hover{
+  color: green;
+}
+.anchor{
+  margin-left: auto;
+}
+.card{
+  width: 22rem;
+}
