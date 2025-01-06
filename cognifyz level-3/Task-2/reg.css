@@ -1,0 +1,39 @@
+.main{
+    text-align: center;
+    height:70vh;
+    width:80vh;
+    background-color: #8f9aeb;
+}
+.res{
+    color: black;
+    background-color: #ce75e0;
+    height: 40px;
+    width: 200px;
+}
+.mes{
+    text-align: center;
+    background-color: #8f9aeb;
+    height:10vh;
+    width:80vh;
+}
+.nes{
+    background-image: url("https://woorise.com/wp-content/uploads/2021/03/Online-event-registration.png");
+    background-repeat: no-repeat;
+}
+.lan{
+    height: 40px;
+    width: 200px;
+}
+.s1{
+    height: 40px;
+    width:200px;
+}
+.era{
+    padding-left: 100px;
+    border:2px;
+}
+.subb{
+    background-color:#53ed56;
+    height: 40px;
+    width: 200px;
+}
