@@ -1,0 +1,67 @@
+.anchor {
+    margin-left: auto;
+}
+
+.mass-logo {
+    height: 100px;
+    padding-left: 20px;
+}
+
+.ITEM-NAV {
+    color: white !important;
+    padding-right: 20px !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ITEM-NAV:hover {
+    color:#2909de !important;
+    transform: scale(1.09);
+}
+
+.name {
+    font-family: 'Encode Sans', sans-serif;
+    letter-spacing: 4px;
+    font-size: 50px;
+    color: rgb(57, 211, 57);
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.para {
+    font-family: 'Gabarito', cursive;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: right;
+}
+.para-1{
+    font-family: 'Gabarito', cursive;
+    color: aliceblue;
+}
+.para-h{
+    color: #d6e94d;
+}
+.head-1{
+    color: lightgreen;
+}
+
+.mass-body {
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+    background-size: cover;
+    height: auto;
+}
+.social-icon-img{
+    height: 50px;
+}
+.contact{
+    text-align: center;
+    color: rgb(249, 246, 246);
+}
+.bottom{
+    text-align:center;
+    padding:10px;
+    margin-top:7px;
+}
+.but{
+    background-color: #2909de;
+    color: black;
+}
